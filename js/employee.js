@@ -1,5 +1,4 @@
 getAllEmployees();
-$('tbody').scrollTableBody();
 
 function saveEmployee() {
 
