@@ -1,0 +1,9 @@
+#btns {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn {
+    font-weight: bold;
+    width: 200px;
+}
